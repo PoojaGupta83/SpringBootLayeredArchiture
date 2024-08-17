@@ -1,1 +1,1 @@
-# SpringBootLayeredArchiture
+# SpringBootLayeredArchitecture
